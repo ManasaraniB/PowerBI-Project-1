@@ -30,3 +30,4 @@ The project explores key business insights such as sales performance, profit tre
 - DAX & Power Query for data modeling and transformation
   
 # Dashboard Preview
+![Dashboard Preview](https://github.com/ManasaraniB/PowerBI-Project-1/blob/main/final%20report.PNG)
